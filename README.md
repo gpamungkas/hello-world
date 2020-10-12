@@ -1,5 +1,6 @@
 # hello-world
-Yo!
+
+This ain't it chief
 
 GitHub seems like a really powerful tool, looking forward to start learning it.
 
