@@ -1,6 +1,10 @@
 # hello-world
 
+<<<<<<< HEAD
+Wait hold up
+=======
 Testing 123
+>>>>>>> e8507201f8fe41bc29732165d723abcca746ac85
 
 GitHub seems like a really powerful tool, looking forward to start learning it.
 
