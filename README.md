@@ -1,6 +1,6 @@
 # hello-world
 
-testin git remote -v on local copy
+Wait hold up
 
 GitHub seems like a really powerful tool, looking forward to start learning it.
 
